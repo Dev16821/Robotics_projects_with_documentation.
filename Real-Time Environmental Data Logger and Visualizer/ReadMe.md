@@ -139,32 +139,6 @@ Real-Time Visualization
 - Noise reduction using EMA
 - Continuous serial data acquisition
 
----
-
-# 📂 Project Structure
-
-```
-Project-1/
-│
-├── Arduino/
-│   └── ldr_sensor.ino
-│
-├── Python/
-│   └── realtime_visualizer.py
-│
-├── Documentation/
-│   └── Project1_Real-Time_Environmental_Data_Logger_and_Visualizer.pdf
-│
-├── Images/
-│   ├── circuit.png
-│   ├── setup.jpg
-│   └── graph.png
-│
-├── Video/
-│   └── demo.mp4
-│
-└── README.md
-```
 
 ---
 
@@ -203,7 +177,7 @@ Linux
 ## 4. Run
 
 ```bash
-python realtime_visualizer.py
+python visualizer.py
 ```
 
 ---
@@ -238,8 +212,7 @@ A complete engineering document is included explaining every concept used in thi
 ---
 
 [![Watch Demo](https://img.shields.io/badge/▶-Watch%20Demo-red?logo=youtube)](https://youtu.be/RplWNiwVUJc)
-[![Documentation](https://img.shields.io/badge/📄-Documentation-blue)](Documentation/Project1_Real-Time_Environmental_Data_Logger_and_Visualizer.pdf)
-
+[![Documentation](https://img.shields.io/badge/📄-Documentation-blue)](https://github.com/Dev16821/Robotics_projects_with_documentation./blob/main/Real-Time%20Environmental%20Data%20Logger%20and%20Visualizer/Project1_Real-Time_Environmental_Data_Logger_and_Visualizer.pdf)
 
 # 🎥 Project Demonstration
 
