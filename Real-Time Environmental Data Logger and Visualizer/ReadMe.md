@@ -212,7 +212,7 @@ A complete engineering document is included explaining every concept used in thi
 ---
 
 [![Watch Demo](https://img.shields.io/badge/▶-Watch%20Demo-red?logo=youtube)](https://youtu.be/RplWNiwVUJc)
-[![Documentation](https://img.shields.io/badge/📄-Documentation-blue)](https://github.com/Dev16821/Robotics_projects_with_documentation./blob/main/Real-Time%20Environmental%20Data%20Logger%20and%20Visualizer/Project1_Real-Time_Environmental_Data_Logger_and_Visualizer.pdf)
+[![Documentation](https://img.shields.io/badge/📄-Documentation-blue)](./Project1_Real-Time_Environmental_Data_Logger_and_Visualizer.pdf)
 
 # 🎥 Project Demonstration
 
